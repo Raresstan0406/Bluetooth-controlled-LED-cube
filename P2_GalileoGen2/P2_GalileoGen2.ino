@@ -1,4 +1,4 @@
-void setup() {
+nstavoid setup() {
   Serial.begin(9600);
   Serial1.begin(9600);
   //pinMode(LED_BUILTIN,OUTPUT);
